@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Montserrat:wght@700;800&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.table-container {
+    max-height: 450px;
+    max-weight: 700px;
+    overflow-y: auto;
+}
