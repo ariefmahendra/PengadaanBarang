@@ -71,7 +71,7 @@
             </div>
         </div>
         <div class="mt-5">
-            <div class="font-inter text-2xl">Daftar Paket Pengadaan Langsung</div>
+            <div class="font-inter text-2xl">Daftar Paket Pengadaan E-Katalog</div>
             <div class="grid grid-cols-2 gap-1 mt-5 bg-[#F6F6F6] shadow-xl shadow-black/20 rounded-xl items-center">
                 <div>
                     <div class="m-1">
