@@ -11,7 +11,7 @@
             <div class="grid grid-cols-2 gap-1 mt-5 bg-[#F6F6F6] shadow-xl shadow-black/20 rounded-xl items-center">
                 <div>
                     <div class="m-1">
-                        <canvas id="resume_1"></canvas>
+                        <div id="chart1"></div>
                     </div>
                     <div class="container m-1">
                         <div class="text-left mx-5 flex items-center">
@@ -25,10 +25,6 @@
                         <div class="text-left mx-5 flex items-center">
                             <div class="w-5 h-5 rounded-full bg-[#FF9900] mr-2"></div>
                             <div>Proses</div>
-                        </div>
-                        <div class="text-left mx-5 flex items-center">
-                            <div class="w-5 h-5 rounded-full bg-[#DC3912] mr-2"></div>
-                            <div>Kontrak</div>
                         </div>
                         <div class="text-left mx-5 flex items-center">
                             <div class="w-5 h-5 rounded-full bg-[#3366CC] mr-2"></div>
@@ -57,11 +53,7 @@
                                 <td>Proses</td>
                                 <td>Rp. 1.048.866.010</td>
                             </tr>
-                            <tr class="border-b shadow-xl border-[#535353] bg-[#F6F6F6]">
-                                <td>Kontrak</td>
-                                <td>Rp. 1.573.418.687</td>
-                            </tr>
-                            <tr class="border-b  border-[#535353] bg-[#E1E1E1]">
+                            <tr class="bg-[#E1E1E1]">
                                 <td>Dibayar</td>
                                 <td>Rp. 1.688.225.338</td>
                             </tr>
@@ -75,7 +67,7 @@
             <div class="grid grid-cols-2 gap-1 mt-5 bg-[#F6F6F6] shadow-xl shadow-black/20 rounded-xl items-center">
                 <div>
                     <div class="m-1">
-                        <canvas id="resume_2"></canvas>
+                        <div id="chart2"></div>
                     </div>
                     <div class="container m-1">
                         <div class="text-left mx-5 flex items-center">
@@ -89,10 +81,6 @@
                         <div class="text-left mx-5 flex items-center">
                             <div class="w-5 h-5 rounded-full bg-[#FF9900] mr-2"></div>
                             <div>Proses</div>
-                        </div>
-                        <div class="text-left mx-5 flex items-center">
-                            <div class="w-5 h-5 rounded-full bg-[#DC3912] mr-2"></div>
-                            <div>Kontrak</div>
                         </div>
                         <div class="text-left mx-5 flex items-center">
                             <div class="w-5 h-5 rounded-full bg-[#3366CC] mr-2"></div>
@@ -121,11 +109,7 @@
                                 <td>Proses</td>
                                 <td>Rp. 1.048.866.010</td>
                             </tr>
-                            <tr class="border-b shadow-xl border-[#535353] bg-[#F6F6F6]">
-                                <td>Kontrak</td>
-                                <td>Rp. 1.573.418.687</td>
-                            </tr>
-                            <tr class="border-b  border-[#535353] bg-[#E1E1E1]">
+                            <tr class="bg-[#E1E1E1]">
                                 <td>Dibayar</td>
                                 <td>Rp. 1.688.225.338</td>
                             </tr>

@@ -25,3 +25,6 @@ Route::get('/resume', function () {
     return view('resume');
 });
 
+Route::get('/chart', function () {
+    return view('chart');
+});

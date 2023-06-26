@@ -9,6 +9,10 @@
 
     {{-- tailwindcss --}}
     @vite(['resources/css/app.css','resources/js/chart_resume.js'])
+
+    {{-- google chart --}}
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    
     {{-- <style>
         * {
             border: 1px solid red;
