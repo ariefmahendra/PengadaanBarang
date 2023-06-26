@@ -4,7 +4,6 @@ export default {
         "./resources/**/*.blade.php",
         "./resources/**/*.js",
         "./resources/**/*.vue",
-        "./node_modules/tw-elements/dist/js/**/*.js",
     ],
     theme: {
         extend: {},
@@ -12,5 +11,5 @@ export default {
             sans: ["Montserrat", "sans-serif"],
         },
     },
-    plugins: [require("@tailwindcss/forms"), "tw-elements/dist/plugin.cjs"],
+    plugins: [require("@tailwindcss/forms")],
 };
