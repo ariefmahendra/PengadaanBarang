@@ -8,7 +8,7 @@
     <title>@yield('title')</title>
 
     {{-- tailwindcss --}}
-    @vite(['resources/css/app.css', 'resources/js/app.js','resources/js/chart_resume.js'])
+    @vite(['resources/css/app.css','resources/js/chart_resume.js'])
     {{-- <style>
         * {
             border: 1px solid red;

@@ -7,7 +7,6 @@ export default defineConfig({
             "resources/css/app.css",
             "resources/js/app.js",
             "resources/js/chart_resume.js",
-            "node_modules/chart.js/dist/chart.min.js",
         ]),
     ],
 });

@@ -17,8 +17,7 @@
     "dependencies": {
         "@fontsource/inter": "^5.0.3",
         "@fontsource/montserrat": "^5.0.3",
-        "apexcharts": "^3.41.0",
         "chart.js": "^4.3.0",
-        "tw-elements": "^1.0.0-beta2"
+        "chartjs": "^0.3.24"
     }
 }
